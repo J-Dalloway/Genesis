@@ -1,5 +1,27 @@
-# Object file
-*.o
+/build/
+*.suo
+*.user
+_ReSharper.*/
+*.sdf
+bin/
+obj/
+Debug/
+Release/
+*.opensdf
+*.tlog
+*.log
+TestResult.xml
+*.VisualState.xml
+Version.cs
+Version.h
+Version.cpp
+*.ide-wal
+*.ide-shm
+*.ide
+*.lock
+*.cachefile
+*.dtbcache
 
-# Ada Library Information
-*.ali
+\.vs/NetcodeCore/v15/
+
+\.vs/NetcodeCore/DesignTimeBuild/
